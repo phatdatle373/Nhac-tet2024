@@ -3,21 +3,21 @@ let allMusic = [{
         artist: "",
         img: "nụ cười xuân",
         src: "music/y2mate.com - NỤ CƯỜI XUÂN  HƯƠNG LY  YUNIBOO  NHẠC XUÂN NHẠC TẾT CHÀO XUÂN QUÝ MÃO 2023 Official MV 4k.mp3",
-        idMusic: "song1"
+        idMusic: "nụ cười xuân "
     },
     {
         name: "Tết Này Con Sẽ Về",
         artist: "",
         img: "tết này con sẽ về",
         src: "music/y2mate.com - Tết Này Con Sẽ Về Đi Về Nhà  Tuyển Tập Nhạc Tết 2024  Nhạc Xuân 2024  Nhạc Tết 2024 P1.mp3",
-        idMusic: "song2"
+        idMusic: "tết này con sẽ về"
     },
     {
         name: "Tết Này Con Sẽ Về Remix",
         artist: "",
         img: "tết này con sẽ về",
         src: "music/y2mate.com - Tết này Con Sẽ Về Orinn Remix  Bùi Công Nam  Nhạc Trẻ Remix Căng Cực Gây Nghiện Hay Nhất 2022 (1).mp3",
-        idMusic: "song3"
+        idMusic: "music/y2mate.com - Tết này Con Sẽ Về Orinn Remix  Bùi Công Nam  Nhạc Trẻ Remix Căng Cực Gây Nghiện Hay Nhất 2022 (1).mp3"
     },
     {
         name: "Nhạc Xuân Remix",
